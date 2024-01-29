@@ -1,0 +1,56 @@
+.App {
+  text-align: center;
+}
+
+.chat-message{
+  background-color: #cbc8c8;  
+  margin-left: 250px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 250px;
+  padding: 1em;
+  max-height: 450px;
+  overflow-y: auto;
+  border-radius: 25px;
+  color:rgb(89, 87, 87);
+
+
+}
+
+
+.data{
+  text-align:center
+}
+
+.cpy{
+   margin-left: 50%;
+}
+
+.ms-5{
+  text-align: center;
+}
+
+.message-right{
+  background: #91fbff;
+  border-radius: 25px;
+  padding: 0.5em 1em !important;
+  margin: 1em;
+}
+
+.message-left{
+    background: aliceblue;
+    border-radius: 25px;
+    padding: 0.5em 1em !important;
+    margin: 1em;
+
+}
+
+.message-text{
+  font-size: 17px;
+}
+
+.message-icon{
+  font-size: 25px;
+  margin: 5px;
+}
+
